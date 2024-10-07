@@ -1,4 +1,3 @@
-
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -52,5 +51,3 @@ A9 = (D @ y + z).reshape(-1)
 A10 = A @ B
 A11 = B @ C
 A12 = C @ D
-
-print(A12)
