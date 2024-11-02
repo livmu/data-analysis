@@ -50,8 +50,5 @@ A8 = (D @ x).reshape(-1)
 A9 = (D @ y + z).reshape(-1)
 A10 = A @ B
 A11 = B @ C
-<<<<<<< HEAD
 A12 = C @ D
-=======
 A12 = C @ D
->>>>>>> 739ebc5a9d9fe6656c05654732dcccf1213c8faa
